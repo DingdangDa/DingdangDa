@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DingdangDa
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning hardware design and working in RoboMaster
-- 💞️ You might want to check my personal website at https://xuanyuhuang.netlify.app/
+- 🌱 I’m currently developing a cool robot.
+- :fire_engine:	
+- 💞️ You might want to check my personal website at https://www.xuanyuhuang.com
 - 📫 xuanyuhuang2001@gmail.com
 
 <!---
